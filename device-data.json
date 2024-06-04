@@ -3,20 +3,5 @@
     "Name": "GPS1",
     "Id": "123456",
     "Condition": "active"
-  },
-  {
-    "Name": "GPS2",
-    "Id": "789012",
-    "Condition": "active"
-  },
-  {
-    "Name": "GPS3",
-    "Id": "345678",
-    "Condition": "inactive"
-  },
-  {
-    "Name": "GPS4",
-    "Id": "345679",
-    "Condition": "inactive"
   }
 ]
