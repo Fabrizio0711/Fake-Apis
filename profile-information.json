@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "John Doe",
+    "Dni": "123456789",
+    "Emai": "johndoe@example.com",
+    "Birth Day": "January 1, 1990",
+    "Cellphone_number": "123-456-7890"
+  },
+  {
+    "name": "Jane Smith",
+    "Dni": "987654321",
+    "Emai": "janesmith@example.com",
+    "Birth Day": "February 2, 1995",
+    "Cellphone_number": "987-654-3210"
+  },
+  {
+    "name": "Mike Johnson",
+    "Dni": "543216789",
+    "Emai": "mikejohnson@example.com",
+    "Birth Day": "March 3, 1985",
+    "Cellphone_numberr": "543-216-7890"
+  }
+]
