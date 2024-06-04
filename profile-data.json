@@ -5,19 +5,5 @@
     "Email": "johndoe@example.com",
     "Birth_Day": "January 1, 1990",
     "Cellphone_number": "123-456-7890"
-  },
-  {
-    "Name": "Jane Smith",
-    "Dni": "987654321",
-    "Email": "janesmith@example.com",
-    "Birth_Day": "February 2, 1995",
-    "Cellphone_number": "987-654-3210"
-  },
-  {
-    "Name": "Mike Johnson",
-    "Dni": "543216789",
-    "Email": "mikejohnson@example.com",
-    "Birth_Day": "March 3, 1985",
-    "Cellphone_number": "543-216-7890"
   }
 ]
